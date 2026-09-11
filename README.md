@@ -2,6 +2,9 @@
 
 Артефакты ручного тестирования и тест-дизайна: поиск и оформление дефектов, техники тест-дизайна, чек-листы, тест-документация полного цикла. Автоматизированные проекты — отдельно: [conduit-api-tests](https://github.com/daria-vlasenko/conduit-api-tests) (REST Assured), [java-testing-practice](https://github.com/daria-vlasenko/java-testing-practice) (JUnit 5 + Mockito).
 
+> ### 📄 [Все материалы в оформленном виде — Google Drive →] https://drive.google.com/drive/folders/1s0k_aeFAJZnKH7qD_46hlWHScwthNkIP?usp=sharing
+> Документы с полной вёрсткой, таблицами и навигацией по разделам. Ниже — те же материалы в репозитории.
+
 ## Содержание
 
 - **[modsen-website-bugs](./modsen-website-bugs)** — 20 дефектов, найденных на реальном сайте modsen-software.com (практика в Modsen, июнь–июль 2026).
@@ -12,4 +15,4 @@
 
 ## Кто я
 
-Начинающий QA Automation Engineer (AQA Java). Ручное тестирование: тест-дизайн (классы эквивалентности, граничные значения, попарное тестирование, таблицы принятия решений), поиск и документирование дефектов, чек-листы веб-безопасности (XSS, SQL-инъекции). GitHub: [daria-vlasenko](https://github.com/daria-vlasenko).
+QA Automation Engineer (Java). Ручное тестирование: тест-дизайн (классы эквивалентности, граничные значения, попарное тестирование, таблицы принятия решений), поиск и документирование дефектов, чек-листы веб-безопасности (XSS, SQL-инъекции). GitHub: [daria-vlasenko](https://github.com/daria-vlasenko).
